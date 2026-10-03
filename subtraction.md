@@ -5,3 +5,8 @@ To subtract two integers, subtract the second number from the first.
 Example:
 
 10 - 4 = 6
+
+
+
+\-5 + 1 = -4
+
